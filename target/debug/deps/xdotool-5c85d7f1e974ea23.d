@@ -1,0 +1,12 @@
+C:\Users\omers\OneDrive\Documents\rust\doe-demo\target\debug\deps\libxdotool-5c85d7f1e974ea23.rmeta: C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src/lib.rs C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src\command.rs C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src\desktop.rs C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src\keyboard.rs C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src\misc.rs C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src\mouse.rs C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src\optionvec.rs C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src\window.rs
+
+C:\Users\omers\OneDrive\Documents\rust\doe-demo\target\debug\deps\xdotool-5c85d7f1e974ea23.d: C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src/lib.rs C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src\command.rs C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src\desktop.rs C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src\keyboard.rs C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src\misc.rs C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src\mouse.rs C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src\optionvec.rs C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src\window.rs
+
+C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src/lib.rs:
+C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src\command.rs:
+C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src\desktop.rs:
+C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src\keyboard.rs:
+C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src\misc.rs:
+C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src\mouse.rs:
+C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src\optionvec.rs:
+C:\Users\omers\.cargo\registry\src\index.crates.io-6f17d22bba15001f\xdotool-0.0.2\src\window.rs:
