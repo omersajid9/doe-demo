@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 doe = { version = "1.1.8", features = ["keyboard", "kcm"] }
+rdev = "0.5.3"
