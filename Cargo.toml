@@ -7,4 +7,5 @@ edition = "2021"
 
 [dependencies]
 doe = { version = "1.1.8", features = ["keyboard", "kcm"] }
+lazy_static = "1.4.0"
 rdev = "0.5.3"

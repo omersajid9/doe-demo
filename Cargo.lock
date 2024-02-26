@@ -275,6 +275,7 @@ name = "doe-demo"
 version = "0.1.0"
 dependencies = [
  "doe",
+ "lazy_static",
  "rdev",
 ]
 
