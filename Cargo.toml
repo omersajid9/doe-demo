@@ -6,6 +6,8 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+dioxus = "0.4.3"
+dioxus-desktop = "0.4.3"
 doe = { version = "1.1.8", features = ["keyboard", "kcm"] }
 lazy_static = "1.4.0"
 rdev = "0.5.3"
